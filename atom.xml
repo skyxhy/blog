@@ -56,8 +56,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;半导体中的跃迁&lt;br /&gt;
-特点：&lt;/li&gt;
+&lt;li&gt;半导体中的跃迁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;特点：&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;量子跃迁速率高&lt;/li&gt;
 &lt;li&gt;频率响应特性好&lt;/li&gt;
 &lt;li&gt;能量转换效率高&lt;/li&gt;
@@ -463,7 +465,7 @@ c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
 M834 80h400000v40h-400000z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2077em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.2255em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line mtight&#34; style=&#34;border-bottom-width:0.049em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.384em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size3 size1 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;x&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.5664em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter sizing reset-size3 size6&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="半导体光电子学" scheme="http://example.com/categories/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6/" />
-        <category term="课件" scheme="http://example.com/categories/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6/%E8%AF%BE%E4%BB%B6/" />
+        <category term="笔记" scheme="http://example.com/categories/%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6/%E7%AC%94%E8%AE%B0/" />
         <category term="半导体" scheme="http://example.com/tags/%E5%8D%8A%E5%AF%BC%E4%BD%93/" />
         <category term="激光器" scheme="http://example.com/tags/%E6%BF%80%E5%85%89%E5%99%A8/" />
         <category term="光电子学" scheme="http://example.com/tags/%E5%85%89%E7%94%B5%E5%AD%90%E5%AD%A6/" />
